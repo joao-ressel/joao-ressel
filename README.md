@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/joao-ressel/joao-ressel/blob/output/ocean.gif)
+![Snake animation](https://raw.githubusercontent.com/joao-ressel/joao-ressel/output/github-contribution-grid-snake.svg)
 <h3 align="center">Desenvolvedor Front-End apaixonado por design</h3>
 
 - 🌱 Estou estudando e aprendendo sobre **ReactJS e UX Design**
