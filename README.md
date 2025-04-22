@@ -1,4 +1,8 @@
-![Snake animation](https://github.com/joao-ressel/joao-ressel/blob/output/ocean.gif?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joao-ressel/joao-ressel/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/joao-ressel/joao-ressel/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/joao-ressel/joao-ressel/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <h3 align="center">Desenvolvedor Front-End apaixonado por design</h3>
 
