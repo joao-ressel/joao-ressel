@@ -38,13 +38,12 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-ressel&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2"  alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-ressel&locale=pt-br&hide_title=true&layout=compact&card_width=495&langs_count=5&theme=radical&&border=008148&order=2&bg_color=151515"  alt="languages graph"  />
 
 <h3 align="left">Favorite Projects:</h3>
 <div  style="display: flex; justify-content: space-between">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=pizza-shop&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=coffe-delivery&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=pizza-shop&title_color=008148&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&&border=008148" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=coffe-delivery&title_color=008148&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&&border=008148" width="49%"/>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joao-ressel&theme=vue-dark&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joao-ressel&theme=vue-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_height=&stroke=008148&background=151515&border=008148" alt="GitHub Streak" /></a>
