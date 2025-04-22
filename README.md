@@ -40,10 +40,11 @@
 <h3 align="left">Languages:</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-ressel&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2"  alt="languages graph"  />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joao-ressel&theme=vue&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
-
 <h3 align="left">Favorite Projects:</h3>
 <p  style="display: flex; gap:1rem">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=pizza-shop&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=coffe-delivery&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="50%"/>
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joao-ressel&theme=vue-dark&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+
