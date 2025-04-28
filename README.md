@@ -39,8 +39,12 @@
 </div>
 <h3 align="left">Favorite Projects:</h3>
 <div  style="display: flex; justify-content: space-between">
+  <a href="https://github.com/joao-ressel/pizza-shop">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=pizza-shop&title_color=008148&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=008148" width="49%"/>
+  </a>
+  <a href="https://github.com/joao-ressel/coffe-delivery">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=coffe-delivery&title_color=008148&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border_color=008148" width="49%"/>
+  </a>
 </div>
 
 
