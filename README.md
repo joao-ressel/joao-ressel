@@ -29,23 +29,18 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
+
 </p>
 <div  style="display: flex; justify-content: space-between">
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-ressel&locale=pt-br&hide_title=true&layout=compact&card_width=495&langs_count=5&theme=radical&&border=008148&order=2&bg_color=151515"  alt="languages graph"  width="49%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-ressel&locale=pt-br&hide_title=true&layout=compact&card_width=495&langs_count=5&theme=radical&border=008148&order=2&bg_color=151515"  alt="languages graph"  width="49%" />
 
   <img src="https://streak-stats.demolab.com?user=joao-ressel&theme=vue-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_height=&stroke=008148&background=151515&border=008148" alt="GitHub Streak"  width="49%"/>
 </div>
 <h3 align="left">Favorite Projects:</h3>
 <div  style="display: flex; justify-content: space-between">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=pizza-shop&title_color=008148&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&&border=008148" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=coffe-delivery&title_color=008148&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&&border=008148" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=pizza-shop&title_color=008148&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border=008148" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=joao-ressel&repo=coffe-delivery&title_color=008148&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&border=008148" width="49%"/>
 </div>
 
 
