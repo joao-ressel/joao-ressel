@@ -15,7 +15,7 @@
 </div>
 
 
-<table width="100%" align="center">
+<table width="100%" align="center" style="border-radius: 16px;">
 <tr>
   <td>
     Tools
@@ -25,10 +25,15 @@
   </td>
 </tr>
 <tr>
-  <td>
-    
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,prisma,js,ts,html,css,tailwind,ai,ps,figma,wordpress)](https://skillicons.dev)
-    
+  <td width="70%">
+   <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img width="100%" src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,prisma,mysql,postman,html,css,sass,styledcomponents,tailwind,wordpress,linux,windows,figma,ai,ps,vscode,github,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
+      
   </td>
   <td> 
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31us3f6odlttuagbjnw3vdqeekay&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31us3f6odlttuagbjnw3vdqeekay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
@@ -36,26 +41,18 @@
 </tr>
 </table>
  <br />
-<table width="100%" align="center">
-<tr width="100%" >
-  <td width="100%" >
-    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ressel&theme=github_dark"/>
-  </td>
-</tr>
-</table>
+<div width="100%" align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-ressel&theme=github_dark"/>
+</div>
  <br />
   <br />
-<table width="100%" align="center">
+<div width="100%" display="flex" justify-content="space-between" >
 
-<tr width="100%" >
-  <td>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joao-ressel&theme=github_dark"/>
-  </td>
-  <td>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joao-ressel&theme=github_dark&utcOffset=8"/>
-  </td>
-</tr>
-</table>
+  <img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joao-ressel&theme=github_dark"/>
+
+  <img width="49.7%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joao-ressel&theme=github_dark&utcOffset=8"/>
+
+</div>
 
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/Thanks-for-visiting-me.gif" />
