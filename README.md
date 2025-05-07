@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/welcome-to-my-github.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="images/welcome-to-my-github-profile.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <picture>
@@ -9,7 +9,7 @@
 </picture>
   <br />
   <br />
-  <img height="50" alt="My Name is João and I like Typescript" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is João and I like Typescript" src="images/my-name-is-joao.gif" />
   <br />
   <br />
 </div>
