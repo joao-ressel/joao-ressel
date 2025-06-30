@@ -20,9 +20,6 @@
   <td>
     Tools
   </td>
-  <td>
-    I'm listening now
-  </td>
 </tr>
 <tr>
   <td width="70%">
